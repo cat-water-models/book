@@ -2,7 +2,7 @@
 
 Editors: Rossella Alba, Rozemarijn ter Horst, Jonatan Godinez Madrigal, Bich Tran
 
-This book is (being) developed as a part of the Constructive Adnvaced Thinking project on [Modelling practices in water governance](https://cat-water-models.github.io). 
+This book is (being) developed as a part of the Constructive Advanced Thinking project on [Modelling practices in water governance](https://cat-water-models.github.io). 
 
 You can view this text [online](https://cat-water-models.github.io/book) or view the [source](https://github.com/cat-water-models/book).
 
