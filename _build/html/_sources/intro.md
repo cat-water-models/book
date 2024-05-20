@@ -1,11 +1,14 @@
-# Welcome to your Jupyter Book
+# Modelling practices in water governance: a book for alternative approaches 
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Editors: Rossella Alba, Rozemarijn ter Horst, Jonatan Godinez Madrigal, Bich Tran
 
-Check out the content pages bundled with this sample book to see more.
+This book is (being) developed as a part of the Constructive Adnvaced Thinking project on [Modelling practices in water governance](https://cat-water-models.github.io). 
+
+You can view this text [online](https://cat-water-models.github.io/book) or view the [source](https://github.com/cat-water-models/book).
+
+The contents of this book are licensed for free consumption under the following license: [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+## Table of content
 
 ```{tableofcontents}
 ```

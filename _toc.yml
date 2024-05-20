@@ -4,6 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: chapters/01.md
+  title: Current modelling practices
+- file: chapters/02.md
+  title: Different approaches to modelling - learning from case studies
+- file: chapters/03.md
+  title: Obstacles and opportunities to model differently
