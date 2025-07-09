@@ -8,7 +8,7 @@ Such efforts require evolving political, epistemological, and ethical routines a
 
 This book is intended to foster cross-learning between communities interested in reflexive, power-sensitive, and situated modeling. It is one way to bring together a diverse collection of on-going, open-ended, and partial attempts at reflecting on and practicing hydrological modeling (there are, of course, other ways—such as in-person dialogues). It is open for contributions include case studies—whether published or not—offered by researchers and practitioners working at the intersection of water and society. 
 
-Importantly, this is a **living book**—an evolving resource meant to grow over time. Some chapters may expand, others may be revised or replaced. It remains open to contributions from anyone interested in situating modeling differently. The book is also a free educational resource, offering real-life examples for students and educators who want to understand how models can be mobilized for more just and transformative water governance. As editors, our role is simply to maintain the original idea and support its continued development.
+Importantly, this is a **living book**—an evolving resource meant to grow over time. Some chapters may expand, others may be revised or replaced. It remains open to contributions from anyone interested in situating modeling differently. Readers can also interact by leaving comments and discussing contents. The book is also a free educational resource, offering real-life examples for students and educators who want to understand how models can be mobilized for more just and transformative water governance. As editors, our role is simply to maintain the original idea and support its continued development.
 
 ## Table of content
 
